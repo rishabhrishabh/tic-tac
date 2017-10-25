@@ -1,1 +1,3 @@
 # tic-tac
+Game in C++!!!
+For beginners.....
